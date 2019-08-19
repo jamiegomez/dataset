@@ -1,0 +1,200 @@
+{
+  "data": {
+    "id": "Best Artworks of All Time"
+    },
+  "children": [
+    {
+    "data": {
+      "id": "Expressionism"
+    },
+    "children": [
+      {
+        "data": {
+          "id": "Amedeo Modigliani"
+        },
+        "children": [
+          {
+            "data": {
+              "id": "Number of Paintings: 193"
+            }
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "Vasiliy Kandinskiy"
+        },
+        "children": [
+          {
+            "data": {
+              "id":"Number of Paintings: 88"
+            }
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "Paul Klee"
+        },
+        "children": [
+          {
+            "data": {
+              "id": "Number of Paintings: 188"
+            }
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "Impression" 
+        },
+        "children": [
+          {
+            "data": {
+              "id": "Claude Monet"
+        },
+        "children": [
+          {
+            "data": {
+              "id": "Number of Paintings: 73"
+            }
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "Pierre-Auguste Renoir"
+        },
+        "children": [
+          {
+            "data": {
+              "id": "Number of Paintings: 336"
+            }
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "Alfred Sisley"
+        },
+        "children": [
+          {
+            "data": {
+              "id": "Number of Paintings: 259"
+            }
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "Henri Matisse"
+        },
+        "children": [
+          {
+            "data": {
+              "id": "Number of Paintings: 186"
+            }
+          }
+        ]
+      },
+      { "data": {
+          "id": "Edgar Degas"
+        },
+        "children": [
+          {
+            "data": {
+              "id": "Number of Paintings: 702"
+            }
+          }
+        ]
+      },
+      { "data": {
+          "id": "Camille Pissarro"
+        },
+       "children": [
+         {
+           "data": {
+             "id": "Number of Paintings: 91"
+            }
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "Surrealism"
+        },
+       "children": [
+         {
+           "data": {
+             "id": "Rene Magritte"
+            },
+          "children": [
+            {
+              "data": {
+                "id": "Number of Paintings: 194"
+              }
+            }
+          ]
+        },
+        {
+        "data": {
+          "id": "Salvador Dali"
+          },
+          "children": [
+            {
+              "data": {
+                "id": "Number of paintings: 139"
+              }
+            }
+          ]
+        },
+        {
+        "data": {
+          "id": "Joan Miro"
+          },
+          "children": [
+            {
+              "data": {
+                "id": "Number of Paintings: 102"
+              }
+            }
+          ]
+        },
+        {
+        "data": {
+          "id": "Realism"
+          },
+          "children": [
+            {
+              "data": {
+                "id": "Edouard Manet"
+              },
+            "children": [
+              {
+                "data": {
+                  "id": "Number of Paintings: 90"
+                }
+              }
+            ]
+        },
+        {
+        "data": {
+          "id": "Gustave Courbet"
+          },
+          "children": [
+            {
+              "data": {
+                "id": "Number of Paintings: 59"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    
+
+
+
+
+          
+
